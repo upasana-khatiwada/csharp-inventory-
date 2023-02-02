@@ -1,0 +1,251 @@
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.exe
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.deps.json
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.dll
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\calculator\project main\bin\Debug\net6.0-windows\project main.pdb
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.dll
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.pdb
+D:\upasana\calculator\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.exe
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.dll
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\inventoryMgt\code\project main\bin\Debug\net6.0-windows\project main.pdb
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.dll
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.pdb
+D:\upasana\inventoryMgt\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\refint\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\inventory-mgt\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+D:\upasana\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+D:\upasana\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+D:\upasana\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+D:\upasana\practice\code\project main\bin\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+D:\upasana\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\ref\project main.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\refint\project main.dll
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\R Sijapati\OneDrive\Desktop\C#\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\refint\project main.dll
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\upasana\project\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\upasana\project\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\refint\project main.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+C:\Users\admin\Desktop\programming\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form3.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form3.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.forgotPassword.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.DashBoard.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.AllTransactions.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.LowStock.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.products.resources
+D:\Sova(c#)\inventorymgt\practice\code\project main\obj\Debug\net6.0-windows\project_main.Setting.resources
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\ref\project main.dll
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\point-of-sale\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.AllTransactions.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.DashBoard.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.forgotPassword.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form3.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.LowStock.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.products.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project_main.Setting.resources
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+D:\point-of-sale\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.exe
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\project main.pdb
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.AllTransactions.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.DashBoard.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.forgotPassword.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Form3.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.LowStock.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.products.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.Setting.resources
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\refint\project main.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.pdb
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+C:\Users\upasa\OneDrive\Desktop\c#\practice\code\project main\obj\Debug\net6.0-windows\project_main.AddProduct.resources

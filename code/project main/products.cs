@@ -22,6 +22,13 @@ namespace project_main
         public products()
         {
             InitializeComponent();
+            button4.BackColor = System.Drawing.Color.Transparent;
+            button4.Parent = pictureBox1;
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.FlatAppearance.BorderSize = 0;
+
+            label1.Parent = pictureBox1;
+            label1.BackColor = Color.Transparent;
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -118,6 +125,18 @@ namespace project_main
             {
                 this.dataGridView1.Visible = false;
             }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3 products = new Form3();
+            products.ShowDialog();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

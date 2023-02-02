@@ -22,6 +22,12 @@
     <Compile Update="LowStock.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ProductIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="products.cs">
       <SubType>Form</SubType>
     </Compile>

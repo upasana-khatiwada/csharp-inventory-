@@ -283,3 +283,5 @@ C:\c#\csharp-inventory-\csharp-inventory-\code\project main\obj\Debug\net6.0-win
 C:\c#\csharp-inventory-\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.pdb
 C:\c#\csharp-inventory-\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
 C:\c#\csharp-inventory-\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\ref\project main.dll
+C:\c#\csharp-inventory-\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.ProductIn.resources
+C:\c#\csharp-inventory-\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.ProductOut.resources

@@ -71,9 +71,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(74, 217);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(76, 20);
+            this.label4.Size = new System.Drawing.Size(46, 20);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Category :";
+            this.label4.Text = "Rate :";
             // 
             // button1
             // 

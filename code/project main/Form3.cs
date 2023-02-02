@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,12 @@ namespace project_main
 {
     public partial class Form3 : Form
     {
+
+        SqlConnection con = new SqlConnection(
+           @"Data Source= .\SQLEXPRESS; 
+            Initial Catalog= admin;
+            user id =sa ; 
+            password =kist@123;");
 
 
         public Form3()
@@ -42,6 +49,9 @@ namespace project_main
             LowStock lowstockPage = new LowStock();
             lowstockPage.ShowDialog();
 
+            
+            
+
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -57,6 +67,11 @@ namespace project_main
             this.Hide(); //hides the first form 
             Setting settingPage = new Setting();
             settingPage.ShowDialog();
+
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
 
         }
     }

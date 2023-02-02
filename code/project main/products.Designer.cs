@@ -94,14 +94,14 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(404, 150);
+            this.textBox2.Location = new System.Drawing.Point(404, 109);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(70, 27);
             this.textBox2.TabIndex = 5;
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(404, 106);
+            this.textBox3.Location = new System.Drawing.Point(404, 150);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(70, 27);
             this.textBox3.TabIndex = 6;
@@ -137,11 +137,11 @@
             this.Rate,
             this.Quantity,
             this.Total_Price});
-            this.dataGridView1.Location = new System.Drawing.Point(137, 194);
+            this.dataGridView1.Location = new System.Drawing.Point(66, 195);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 29;
-            this.dataGridView1.Size = new System.Drawing.Size(651, 229);
+            this.dataGridView1.Size = new System.Drawing.Size(680, 255);
             this.dataGridView1.TabIndex = 9;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 

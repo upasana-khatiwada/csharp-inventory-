@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WtDSpS9S/PbvguyWchKlasZSNt6xQFvkFM2Mie3ADIlo9d/gQHcDGF4S/Ie4kCtHEk4GvkkjzgNl+6nvNLWyLA==",
+  "dgSpecHash": "dEEti3gGIY/RPAre0hCx7PB+G9ATUKR0wlpxiz8wLVgRS1NZo1cybURMRs1sO+oHj25OxA7+Wx/YK0hdQJsvHg==",
   "success": true,
-  "projectFilePath": "C:\\upasana\\c#\\practice\\code\\project main\\project main.csproj",
+  "projectFilePath": "C:\\c#\\csharp-inventory-\\csharp-inventory-\\code\\project main\\project main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\upasa\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\upasa\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

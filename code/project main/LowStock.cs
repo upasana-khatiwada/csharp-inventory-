@@ -81,7 +81,39 @@ namespace project_main
             //        listView.Items.Add(lvi);
 
                 }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void LowStock_Load(object sender, EventArgs e)
+        {
+            string query = "Select item_name, category,quantity from productlist where quantity < 5 ";
+            SqlCommand SqlCommand = new SqlCommand(query, con);
+            SqlDataAdapter sda = new SqlDataAdapter(SqlCommand);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+
+            int sn = 1;
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                string Item_Name = dt.Rows[i]["item_name"].ToString();
+                string Rate = dt.Rows[i]["category"].ToString();
+                string Quantity = dt.Rows[i]["Quantity"].ToString();
+                Decimal Total_p = Convert.ToDecimal(Rate) * Convert.ToDecimal(Quantity);
+                //string Total_Price = dt.Rows[i]["Total_price"].ToString();
+                dataGridView1.Rows.Add(sn++, Item_Name, Rate, Quantity, Total_p);
+
             }
+        }
+    }
         }
 
 

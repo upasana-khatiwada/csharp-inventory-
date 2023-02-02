@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\upasana\\c#\\practice\\code\\project main\\project main.csproj": {}
+    "C:\\c#\\csharp-inventory-\\csharp-inventory-\\code\\project main\\project main.csproj": {}
   },
   "projects": {
-    "C:\\upasana\\c#\\practice\\code\\project main\\project main.csproj": {
+    "C:\\c#\\csharp-inventory-\\csharp-inventory-\\code\\project main\\project main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\upasana\\c#\\practice\\code\\project main\\project main.csproj",
+        "projectUniqueName": "C:\\c#\\csharp-inventory-\\csharp-inventory-\\code\\project main\\project main.csproj",
         "projectName": "project main",
-        "projectPath": "C:\\upasana\\c#\\practice\\code\\project main\\project main.csproj",
+        "projectPath": "C:\\c#\\csharp-inventory-\\csharp-inventory-\\code\\project main\\project main.csproj",
         "packagesPath": "C:\\Users\\upasa\\.nuget\\packages\\",
-        "outputPath": "C:\\upasana\\c#\\practice\\code\\project main\\obj\\",
+        "outputPath": "C:\\c#\\csharp-inventory-\\csharp-inventory-\\code\\project main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\upasa\\AppData\\Roaming\\NuGet\\NuGet.Config",

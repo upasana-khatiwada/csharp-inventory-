@@ -31,24 +31,52 @@ namespace project_main
 
         private void products_Load(object sender, EventArgs e)
         {
+            dataGridView1.Hide();
 
-           // con.Open();
-           /////* -------------------------------to sh*/ow data on the gridview by concatenating------------ -
-           // string query = "Insert into productlist" + "( name,address,age,contact)" +
-           //     "values('" +
-           //     textBox1.Text +
-           //     "','" + textBox2.Text +
-           //     "','" + textBox3.Text +
-                
-           //     "')";
+            con.Open();
+            ///* -------------------------------to show total number of item (available quantity of item)------------ -
+            ///
+            string query = "select * from productlist";
+            
+            SqlCommand SqlCommand = new SqlCommand(query, con);
+            SqlDataAdapter sda = new SqlDataAdapter(SqlCommand);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+
+            decimal RowNum = dt.Rows.Count;
+
+            textBox1.Text =Convert.ToString( RowNum);
 
 
-           // SqlCommand cmd = con.CreateCommand();
-           // cmd.CommandText = query;
-           // cmd.ExecuteNonQuery();
-           // con.Close();
-           con.Open();
-            SqlCommand cmd = new SqlCommand("SELECT MAX(SN)");
+            //to addd total quantity---------------------------------------------------------
+            string query1 = "select quantity,category from productlist";
+            Decimal totalQty = 0;
+            Decimal totalStockPrice = 0;
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                string Rate = dt.Rows[i]["category"].ToString();
+                string Quantity = dt.Rows[i]["Quantity"].ToString();
+                 totalQty = totalQty +Convert.ToDecimal(Quantity) ;
+
+                Decimal Total_p = Convert.ToDecimal(Rate) * Convert.ToDecimal(Quantity);
+               totalStockPrice = totalStockPrice+Convert.ToDecimal(Total_p);
+                //string Total_Price = dt.Rows[i]["Total_price"].ToString();
+                //dataGridView1.Rows.Add(sn++, Item_Name, Rate, Quantity, Total_p);
+
+            }
+            textBox2.Text = Convert.ToString(totalQty);
+            textBox3.Text = Convert.ToString(totalStockPrice);
+
+
+
+
+            SqlCommand cmd = con.CreateCommand();
+            cmd.CommandText = query;
+            cmd.ExecuteNonQuery();
+            con.Close();
+
+
+            
 
         }
 
@@ -61,6 +89,7 @@ namespace project_main
 
         private void button3_Click(object sender, EventArgs e)
         {
+            dataGridView1.Show();
             string query = "select * from productlist";
             SqlCommand SqlCommand = new SqlCommand(query, con);
             SqlDataAdapter sda = new SqlDataAdapter(SqlCommand);

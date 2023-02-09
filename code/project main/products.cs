@@ -88,7 +88,7 @@ namespace project_main
 
 
             SqlCommand cmd = con.CreateCommand();
-            cmd.CommandText = query;
+            cmd.CommandText = query1;
             cmd.ExecuteNonQuery();
             con.Close();
 

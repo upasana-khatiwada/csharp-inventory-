@@ -31,6 +31,12 @@
     <Compile Update="products.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Properties\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="selectProduct%28listBox%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Setting.cs">
       <SubType>Form</SubType>
     </Compile>

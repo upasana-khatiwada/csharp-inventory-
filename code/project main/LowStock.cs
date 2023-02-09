@@ -23,6 +23,14 @@ namespace project_main
             InitializeComponent();
 
 
+            button1.BackColor = System.Drawing.Color.Transparent;
+            button1.Parent = pictureBox1;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.FlatAppearance.BorderSize = 0;
+
+            label1.Parent = pictureBox1;
+            label1.BackColor = Color.Transparent;
+
 
 
             //DataTable productlist = new DataTable();
@@ -80,7 +88,7 @@ namespace project_main
             //        // Add the list items to the ListView
             //        listView.Items.Add(lvi);
 
-                }
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -112,6 +120,13 @@ namespace project_main
                 dataGridView1.Rows.Add(sn++, Item_Name, Rate, Quantity, Total_p);
 
             }
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3 LowStock = new Form3();
+            LowStock.ShowDialog();
         }
     }
         }

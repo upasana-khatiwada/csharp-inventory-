@@ -50,7 +50,7 @@
             // 
             this.button1.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(237, 52);
+            this.button1.Location = new System.Drawing.Point(237, 22);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(378, 68);
@@ -63,7 +63,7 @@
             // 
             this.button2.BackColor = System.Drawing.Color.Thistle;
             this.button2.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(237, 156);
+            this.button2.Location = new System.Drawing.Point(237, 125);
             this.button2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(378, 67);
@@ -76,7 +76,7 @@
             // 
             this.button3.BackColor = System.Drawing.Color.Moccasin;
             this.button3.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button3.Location = new System.Drawing.Point(237, 253);
+            this.button3.Location = new System.Drawing.Point(237, 226);
             this.button3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(378, 68);
@@ -89,7 +89,7 @@
             // 
             this.button4.BackColor = System.Drawing.Color.Pink;
             this.button4.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button4.Location = new System.Drawing.Point(237, 352);
+            this.button4.Location = new System.Drawing.Point(237, 327);
             this.button4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(378, 71);
@@ -102,7 +102,7 @@
             // 
             this.button5.BackColor = System.Drawing.Color.LightGreen;
             this.button5.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button5.Location = new System.Drawing.Point(237, 460);
+            this.button5.Location = new System.Drawing.Point(237, 427);
             this.button5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(378, 69);
@@ -118,7 +118,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox1.BackColor = System.Drawing.Color.PaleTurquoise;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(249, 64);
+            this.pictureBox1.Location = new System.Drawing.Point(248, 32);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(49, 45);
@@ -130,7 +130,7 @@
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Thistle;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(250, 164);
+            this.pictureBox2.Location = new System.Drawing.Point(248, 140);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(49, 52);
@@ -142,7 +142,7 @@
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Moccasin;
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(250, 263);
+            this.pictureBox3.Location = new System.Drawing.Point(248, 236);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(49, 49);
@@ -154,7 +154,7 @@
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.Pink;
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(249, 363);
+            this.pictureBox4.Location = new System.Drawing.Point(248, 346);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(49, 52);
@@ -166,7 +166,7 @@
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.LightGreen;
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(250, 469);
+            this.pictureBox5.Location = new System.Drawing.Point(248, 445);
             this.pictureBox5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(48, 51);

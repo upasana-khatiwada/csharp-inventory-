@@ -15,6 +15,21 @@ namespace project_main
         public AllTransactions()
         {
             InitializeComponent();
+
+            button1.BackColor = System.Drawing.Color.Transparent;
+            button1.Parent = pictureBox1;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.FlatAppearance.BorderSize = 0;
+
+            label1.Parent = pictureBox1;
+            label1.BackColor = Color.Transparent;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3 AllTransactions = new Form3();
+            AllTransactions.ShowDialog();
         }
     }
 }

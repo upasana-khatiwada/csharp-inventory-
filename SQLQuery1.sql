@@ -25,5 +25,5 @@ quantity nvarchar(255) not null,
 
 Select * from productlist
 DELETE FROM productlist where 1=1;
-insert into productlist (item_name,item_id, category,quantity) 
+insert into productlist (item_name,item_id, quantity,category) 
 values ('upasana','9843816723','100','2');

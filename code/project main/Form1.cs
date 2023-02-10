@@ -162,6 +162,11 @@ namespace project_main
                 textBox2.ForeColor = Color.Gray;
             }
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

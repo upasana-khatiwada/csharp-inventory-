@@ -67,16 +67,25 @@ namespace project_main
                     cmd.Parameters.Add("@nme", SqlDbType.NVarChar).Value = textBox1.Text;
                     cmd.Parameters.Add("@id", SqlDbType.NVarChar).Value = textBox2.Text;
 
-                    cmd.Parameters.Add("@cat", SqlDbType.NVarChar).Value = textBox3.Text;
-                    cmd.Parameters.Add("@qty", SqlDbType.NVarChar).Value = textBox4.Text;
+                    cmd.Parameters.Add("@qty", SqlDbType.NVarChar).Value = textBox3.Text;
+                    cmd.Parameters.Add("@cat", SqlDbType.NVarChar).Value = textBox4.Text;
 
                     // Let's ask the db to execute the query
                     int rowsAdded = cmd.ExecuteNonQuery();
                     if (rowsAdded > 0)
-                        MessageBox.Show("Row inserted!!" );
+                    {
+                        MessageBox.Show("Product Added!!");
+                        this.Hide(); //hides the first form 
+                        products LoginForm = new products();
+                        LoginForm.ShowDialog();
+                    }
+
+
                     else
+                    {
                         // Well this should never really happen
-                        MessageBox.Show("No row inserted");
+                        MessageBox.Show("No Product Added");
+                    }
 
                 }
             }

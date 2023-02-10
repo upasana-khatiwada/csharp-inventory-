@@ -117,7 +117,7 @@ namespace project_main
             for (int i = 0; i < dt.Rows.Count; i++)
             {
                 string Item_Name = dt.Rows[i]["item_name"].ToString();
-                string Rate = dt.Rows[i]["category"].ToString();
+                string Rate = dt.Rows[i]["Category"].ToString();
                 string Quantity = dt.Rows[i]["Quantity"].ToString();
                 Decimal Total_p = Convert.ToDecimal(Rate) * Convert.ToDecimal(Quantity);
                 //string Total_Price = dt.Rows[i]["Total_price"].ToString();
@@ -150,6 +150,11 @@ namespace project_main
         }
 
         private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
         }

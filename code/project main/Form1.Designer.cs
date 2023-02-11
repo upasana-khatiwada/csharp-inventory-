@@ -135,7 +135,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(134, 37);
             this.button3.TabIndex = 4;
-            this.button3.Text = "Forget Password ?";
+            this.button3.Text = "Forgot Password ?";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -159,6 +159,7 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 13;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // textBox2
             // 

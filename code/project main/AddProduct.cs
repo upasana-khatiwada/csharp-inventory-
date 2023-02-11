@@ -22,14 +22,14 @@ namespace project_main
         public AddProduct()
         {
             InitializeComponent();
-            //label1.Parent = pictureBox1;
-            //label1.BackColor = Color.Transparent; 
-            //label2.Parent = pictureBox1;
-            //label2.BackColor = Color.Transparent;
-            //label3.Parent = pictureBox1;
-            //label3.BackColor = Color.Transparent; 
-            //label4.Parent = pictureBox1;
-            //label4.BackColor = Color.Transparent;
+            label1.Parent = pictureBox1;
+            label1.BackColor = Color.Transparent;
+            label2.Parent = pictureBox1;
+            label2.BackColor = Color.Transparent;
+            label3.Parent = pictureBox1;
+            label3.BackColor = Color.Transparent;
+            label4.Parent = pictureBox1;
+            label4.BackColor = Color.Transparent;
             label5.Parent = pictureBox1;
             label5.BackColor = Color.Transparent;
 

@@ -15,6 +15,23 @@ namespace project_main
         public ProductIn()
         {
             InitializeComponent();
+            label1.Parent = pictureBox1;
+            label1.BackColor = Color.Transparent;
+
+            button1.BackColor = System.Drawing.Color.Transparent;
+            button1.Parent = pictureBox1;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.FlatAppearance.BorderSize = 0;
+
+
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            DashBoard ProductIn = new DashBoard();
+            ProductIn.ShowDialog();
         }
     }
 }

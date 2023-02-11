@@ -54,11 +54,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.SystemColors.Window;
-            this.label1.Location = new System.Drawing.Point(58, 9);
+            this.label1.Location = new System.Drawing.Point(66, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(168, 41);
+            this.label1.Size = new System.Drawing.Size(177, 41);
             this.label1.TabIndex = 0;
             this.label1.Text = "PRODUCTS";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -66,40 +66,47 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.ForeColor = System.Drawing.SystemColors.Window;
             this.label2.Location = new System.Drawing.Point(212, 72);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(135, 20);
+            this.label2.Size = new System.Drawing.Size(165, 25);
             this.label2.TabIndex = 1;
             this.label2.Text = "TOTAL PRODUCTS :";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label3.ForeColor = System.Drawing.SystemColors.Window;
             this.label3.Location = new System.Drawing.Point(212, 109);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(171, 20);
+            this.label3.Size = new System.Drawing.Size(207, 25);
             this.label3.TabIndex = 2;
             this.label3.Text = "TOTAL STOCK IN HAND :";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label4.ForeColor = System.Drawing.SystemColors.Window;
             this.label4.Location = new System.Drawing.Point(212, 150);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(147, 20);
+            this.label4.Size = new System.Drawing.Size(179, 25);
             this.label4.TabIndex = 3;
             this.label4.Text = "TOTAL STOCK PRICE :";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(404, 65);
+            this.textBox1.Location = new System.Drawing.Point(449, 70);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(70, 27);
             this.textBox1.TabIndex = 4;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(404, 109);
+            this.textBox2.Location = new System.Drawing.Point(449, 109);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(70, 27);
             this.textBox2.TabIndex = 5;
@@ -107,7 +114,7 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(404, 150);
+            this.textBox3.Location = new System.Drawing.Point(449, 150);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(70, 27);
             this.textBox3.TabIndex = 6;
@@ -117,9 +124,9 @@
             // 
             this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button1.Location = new System.Drawing.Point(752, 15);
+            this.button1.Location = new System.Drawing.Point(745, 9);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(36, 33);
+            this.button1.Size = new System.Drawing.Size(43, 38);
             this.button1.TabIndex = 7;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -128,9 +135,9 @@
             // 
             this.button2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button2.BackgroundImage")));
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button2.Location = new System.Drawing.Point(708, 15);
+            this.button2.Location = new System.Drawing.Point(696, 9);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(38, 33);
+            this.button2.Size = new System.Drawing.Size(43, 38);
             this.button2.TabIndex = 8;
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -213,7 +220,7 @@
             this.button4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button4.Location = new System.Drawing.Point(14, 12);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(38, 36);
+            this.button4.Size = new System.Drawing.Size(43, 38);
             this.button4.TabIndex = 12;
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);

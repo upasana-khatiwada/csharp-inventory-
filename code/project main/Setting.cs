@@ -31,5 +31,12 @@ namespace project_main
             Form3 Setting = new Form3();
             Setting.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 Setting = new Form1();
+            Setting.ShowDialog();
+        }
     }
 }

@@ -22,6 +22,28 @@ namespace project_main
         public forgotPassword()
         {
             InitializeComponent();
+
+            pictureBox2.BackColor = Color.Transparent;
+            pictureBox2.Parent = pictureBox1;
+
+            label1.Parent = pictureBox1;
+            label1.BackColor = Color.Transparent;
+
+            label2.Parent = pictureBox1;
+            label2.BackColor = Color.Transparent;
+
+            label3.Parent = pictureBox1;
+            label3.BackColor = Color.Transparent;
+
+
+            label4.Parent = pictureBox1;
+            label4.BackColor = Color.Transparent;
+
+            button2.BackColor = System.Drawing.Color.Transparent;
+            button2.Parent = pictureBox1;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.FlatAppearance.BorderSize = 0;
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -84,6 +106,23 @@ namespace project_main
         }
 
         private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 forgotPassword = new Form1();
+            forgotPassword.ShowDialog();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }

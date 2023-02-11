@@ -19,6 +19,25 @@ namespace project_main
             button4.Parent = pictureBox1;
             button4.FlatStyle = FlatStyle.Flat;
             button4.FlatAppearance.BorderSize = 0;
+
+            label1.Parent = pictureBox1;
+            label1.BackColor = Color.Transparent;
+
+            label2.Parent = pictureBox1;
+            label2.BackColor = Color.Transparent;
+
+            label3.Parent = pictureBox1;
+            label3.BackColor = Color.Transparent;
+
+
+            label4.Parent = pictureBox1;
+            label4.BackColor = Color.Transparent;
+
+            label5.Parent = pictureBox1;
+            label5.BackColor = Color.Transparent;
+
+            label6.Parent = pictureBox1;
+            label6.BackColor = Color.Transparent;
         }
         
         public ProductOut( string value)
@@ -61,6 +80,16 @@ namespace project_main
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

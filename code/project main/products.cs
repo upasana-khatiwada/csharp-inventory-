@@ -39,7 +39,17 @@ namespace project_main
             button1.Parent = pictureBox1;
             button1.FlatStyle = FlatStyle.Flat;
             button1.FlatAppearance.BorderSize = 0;
+
+            label2.Parent = pictureBox1;
+            label2.BackColor = Color.Transparent;
+
+            label3.Parent = pictureBox1;
+            label3.BackColor = Color.Transparent;
+
+            label4.Parent = pictureBox1;
+            label4.BackColor = Color.Transparent;
         }
+
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
@@ -155,6 +165,11 @@ namespace project_main
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

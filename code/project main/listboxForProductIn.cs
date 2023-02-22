@@ -26,6 +26,11 @@ namespace project_main
         public listboxForProductIn()
         {
             InitializeComponent();
+            InitializeComponent();
+            button2.BackColor = System.Drawing.Color.Transparent;
+            button2.Parent = pictureBox1;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.FlatAppearance.BorderSize = 0;
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -60,6 +65,13 @@ namespace project_main
             {
                 MessageBox.Show("Error:" + l);
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            ProductIn listboxForProductIn = new ProductIn();
+            listboxForProductIn.ShowDialog();
         }
     }
 }

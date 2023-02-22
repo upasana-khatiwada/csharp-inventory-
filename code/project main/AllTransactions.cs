@@ -75,6 +75,7 @@ namespace project_main
                 string Quantity = dt.Rows[i]["Quantity"].ToString();
                 Product_InHand = Product_InHand +Convert.ToDecimal(Quantity);
 
+
                 
 
             }

@@ -128,6 +128,13 @@ namespace project_main
             Form3 LowStock = new Form3();
             LowStock.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            AddProduct AddProductForm = new AddProduct();
+            AddProductForm.ShowDialog();
+        }
     }
         }
 

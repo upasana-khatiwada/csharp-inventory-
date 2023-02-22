@@ -95,6 +95,7 @@ namespace project_main
                 // for this example let's just show a message
                 MessageBox.Show("ERROR:" + ex.Message);
             }
+            con.Close();
 
 
         }

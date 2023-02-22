@@ -78,8 +78,12 @@ namespace project_main
             String value = listBox1.SelectedItem.ToString();
             // listBox1.SelectedIndexChanged += new EventHandler(listBox1_SelectedIndexChanged);
             ProductOut f2 = new ProductOut(value);
+
             f2.Show();
             MessageBox.Show(listBox1.SelectedItem.ToString());
+
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)

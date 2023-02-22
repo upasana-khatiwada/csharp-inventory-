@@ -361,3 +361,5 @@ C:\upasana\csharp project\csharp-inventory-\code\project main\obj\Debug\net6.0-w
 C:\upasana\csharp project\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.selectProduct_listBox_.resources
 C:\Users\R Sijapati\OneDrive\Desktop\C#project\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.Properties.UserControl1.resources
 C:\Users\R Sijapati\OneDrive\Desktop\C#project\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.selectProduct_listBox_.resources
+C:\upasana\csharp project\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.listboxForProductIn.resources
+C:\upasana\csharp project\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.productInBill.resources

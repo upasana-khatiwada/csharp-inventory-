@@ -365,3 +365,43 @@ C:\upasana\csharp project\csharp-inventory-\code\project main\obj\Debug\net6.0-w
 C:\upasana\csharp project\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.productInBill.resources
 C:\Users\R Sijapati\OneDrive\Desktop\C#project\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.listboxForProductIn.resources
 C:\Users\R Sijapati\OneDrive\Desktop\C#project\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.productInBill.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\project main.exe
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\project main.deps.json
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\project main.runtimeconfig.json
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\project main.dll
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\project main.pdb
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\upasana\c# new\csharp-inventory-\code\project main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.csproj.AssemblyReference.cache
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.AddProduct.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.AllTransactions.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.DashBoard.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.forgotPassword.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.Form2.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.Form3.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.listboxForProductIn.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.LowStock.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.ProductIn.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.productInBill.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.ProductOut.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.products.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.Properties.UserControl1.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.selectProduct_listBox_.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project_main.Setting.resources
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.csproj.GenerateResource.cache
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.GeneratedMSBuildEditorConfig.editorconfig
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfoInputs.cache
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.AssemblyInfo.cs
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.csproj.CoreCompileInputs.cache
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.csproj.CopyComplete
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.dll
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\refint\project main.dll
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.pdb
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\project main.genruntimeconfig.cache
+C:\upasana\c# new\csharp-inventory-\code\project main\obj\Debug\net6.0-windows\ref\project main.dll

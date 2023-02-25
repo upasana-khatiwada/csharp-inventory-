@@ -102,5 +102,10 @@ namespace project_main
             ProductOut selectProduct_listBox_= new ProductOut();
             selectProduct_listBox_.ShowDialog();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

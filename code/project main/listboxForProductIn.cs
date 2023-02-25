@@ -47,6 +47,22 @@ namespace project_main
         {
             try
             {
+
+                //con.Open();
+                //using (SqlConnection command = new SqlConnection())
+                //{
+                //    command.con = con;
+                //    command.CommandText = "SELECT CountryName FROM Countries ";
+                //    //whenever you want to get some data from the database
+                //    using (SqlDataReader reader = command.ExecuteReader())
+                //    {
+                //        while (reader.Read())
+                //        {
+                //            listBox1.Items.Add(reader["CountryName"].ToString());
+                //        }
+                //    }
+                //}
+
                 cmd = new SqlCommand();
                 con.Open();
                 cmd.Connection = con;

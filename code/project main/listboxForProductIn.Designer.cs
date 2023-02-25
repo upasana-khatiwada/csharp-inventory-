@@ -40,7 +40,7 @@
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 20;
-            this.listBox1.Location = new System.Drawing.Point(87, 69);
+            this.listBox1.Location = new System.Drawing.Point(77, 69);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(428, 304);
             this.listBox1.TabIndex = 0;
@@ -69,9 +69,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(-5, -3);
+            this.pictureBox1.Location = new System.Drawing.Point(-5, 412);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(809, 455);
+            this.pictureBox1.Size = new System.Drawing.Size(406, 40);
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
@@ -80,9 +80,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "listboxForProductIn";
             this.Text = "listboxForProductIn";
